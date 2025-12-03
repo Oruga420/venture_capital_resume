@@ -36,7 +36,7 @@ const experiences = [
     period: 'February 2025 - Present',
     bullets: [
       'Executed an upskilling and adoption plan that increased internal AI usage from 47% to 97%.',
-      'Designed agentic workflows and GenAI automations replacing over 20,000 manual hours and saving $1M+.',
+      'Designed agentic workflows and GenAI automations replacing over 20,000 manual hours, saving $1M+ and 20 working hours across a year.',
       'Built a secure GenAI stack across GCP, AWS, and Vercel with governance for auditability and safety.',
     ],
   },
